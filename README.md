@@ -1,6 +1,6 @@
 Steps to see and run the script :
 
-1.Open the script in Google Colaboratory.
+1.Open the script (ipython file) in Google Colaboratory.
 
 2.Download the attached CSV file as it is the dataset.
 
